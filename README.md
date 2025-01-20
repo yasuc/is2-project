@@ -1,6 +1,6 @@
 # 情報セキュリティII Git最終演習プロジェクト
 
-## テックリードのリポジトリ: http://10.10.122.54/yasuc/is2-project
+## テックリードのリポジトリ: https://github.com/yasuc/is2-project
 
 ## テックリードのリポジトリをforkして作業を行っていく
 
